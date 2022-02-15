@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  margin-top: 20px;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.search {
+  width: 25%;
+  margin-bottom: 15px;
+}
+
+.ant-pagination{
+  display: none;
+}
